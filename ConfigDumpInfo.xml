@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.17">
+	<ConfigVersions>
+		<Metadata name="Catalog.Клиенты" id="c558bd0c-9d0a-4f55-bbdd-37b788782d0d" configVersion="14e56db366b9db4b949b16b93af8200300000000">
+			<Metadata name="Catalog.Клиенты.Attribute.Телефон" id="c1a34229-3aa0-485e-9f4a-ebf462a4c1a6"/>
+			<Metadata name="Catalog.Клиенты.Attribute.Email" id="d8b75ca3-3593-48e4-ae44-f5cd148decd1"/>
+		</Metadata>
+		<Metadata name="Configuration.Конфигурация" id="81cc99f2-3a4e-49dd-a3db-b10f1a5de7c2" configVersion="f595980da262014ea8d94fea42577fd500000000"/>
+		<Metadata name="Document.Сделка" id="7d1c0d8f-0c0e-4775-8764-60a4a88413a6" configVersion="69c0d2dfe2dd404ea4d6e659b2b762fb00000000">
+			<Metadata name="Document.Сделка.Attribute.Клиент" id="10ba1260-7b96-4d93-96a5-5608ed5b1abe"/>
+			<Metadata name="Document.Сделка.Attribute.Статус" id="13da05ce-4951-4051-8b5f-163b22699ff1"/>
+			<Metadata name="Document.Сделка.TabularSection.Товары" id="20c9b0f3-0d08-449b-a620-07a634ac3e63"/>
+			<Metadata name="Document.Сделка.TabularSection.Товары.Attribute.Количество" id="3c034b40-a5cb-47eb-8915-90660100b9ec"/>
+			<Metadata name="Document.Сделка.TabularSection.Товары.Attribute.Наименоание" id="5bff8346-1715-4167-ae97-f390dd526040"/>
+			<Metadata name="Document.Сделка.TabularSection.Товары.Attribute.Цена" id="746ec8ae-98e2-49d0-a606-91a852603141"/>
+			<Metadata name="Document.Сделка.Attribute.Сумма" id="87ac0c6b-e00c-44ed-aa85-c03a65eb30e2"/>
+		</Metadata>
+		<Metadata name="Document.Сделка.Form.ФормаДокумента" id="8b7475d3-3000-4cc1-a801-c0e52fa9ea73" configVersion="3fc8ccea21d7db4d9a700a5e9b319a1300000000"/>
+		<Metadata name="Document.Сделка.Form.ФормаДокумента.Form" id="8b7475d3-3000-4cc1-a801-c0e52fa9ea73.0" configVersion="66601d030b501543b2eaddd33e1d27a800000000"/>
+		<Metadata name="Document.Сделка.ObjectModule" id="7d1c0d8f-0c0e-4775-8764-60a4a88413a6.0" configVersion="c9ab87dae66add4cbbea388571de62e700000000"/>
+		<Metadata name="Enum.СтатусыСделки" id="f5a8545c-7c00-49a1-8c87-191c80659848" configVersion="8509ac79fcb13146869b782b6cf0bac000000000">
+			<Metadata name="Enum.СтатусыСделки.EnumValue.Новая" id="233a1efc-9667-48a4-a0b1-57e54ee6dfcc"/>
+			<Metadata name="Enum.СтатусыСделки.EnumValue.Закрыта" id="4a923c09-e3cd-4d68-b236-d97de279fc81"/>
+			<Metadata name="Enum.СтатусыСделки.EnumValue.ВПроцессе" id="d210e3f0-c604-4d7f-bdf7-b49f86759527"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="b6cb8bbf-f20e-4a53-a57c-66e674cbb5f1" configVersion="adefbfe8843c2b4c80d39532c6b6a45a00000000"/>
+		<Metadata name="Report.ОтчетПоСделкам" id="1b647c16-1148-4a99-b2e1-bc5030d11902" configVersion="f9dbd2e2e71630409a3fd0de4a74801500000000"/>
+		<Metadata name="Report.ОтчетПоСделкам.Template.ОсновнаяСхемаКомпоновкиДанных" id="f0c54bc5-d6a7-4917-92b5-93f4fef505e9" configVersion="473a5fceaadc9a4ebc617d145ff45bfe00000000"/>
+		<Metadata name="Report.ОтчетПоСделкам.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="f0c54bc5-d6a7-4917-92b5-93f4fef505e9.0" configVersion="207cabc4521c8343be63eedaf3bec6b800000000"/>
+		<Metadata name="Subsystem.Продажи" id="9d7744fd-c3bb-48cd-bfee-d398564f600c" configVersion="bd46e81f96768f46b780cdd199082d5000000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
